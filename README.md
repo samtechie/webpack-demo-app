@@ -1,1 +1,1 @@
-# webpack-demo-app
+# Getting to grips with webpack
